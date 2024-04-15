@@ -19,5 +19,5 @@ Rsync Wizard is a graphical user interface (GUI) tool designed to simplify the g
 
 ## Note
 
-There may be issues if rsync isn't installed or configured in the path.
+There may be issues if rsync isn't installed or configured in the path.\
 Work in progress.
