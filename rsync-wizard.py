@@ -3,7 +3,7 @@ Rsync Wizard
 
 This script provides a graphical user interface (GUI) for generating rsync commands using the OpenShift command-line tool (oc).
 Users can login, select projects and pods, specify source and destination paths, and execute rsync commands.
-The GUI is built using the Tkinter library by Ben Harrison.
+The GUI is built using the Tkinter library.
 """
 
 import tkinter as tk
