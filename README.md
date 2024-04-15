@@ -1,3 +1,6 @@
+![image](https://github.com/Benzamp/rsync-wizard/assets/39504919/4066eaf0-9aea-4bde-b259-0c0e2142db56)
+
+
 Created by Ben Harrison
 
 Login command: Paste the copied OKD login command and press Login to populate the Projects dropdown
